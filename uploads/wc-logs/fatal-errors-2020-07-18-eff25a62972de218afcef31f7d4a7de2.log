@@ -1,0 +1,11 @@
+2020-07-18T23:00:34+00:00 CRITICAL Uncaught Error: Call to undefined function esc_html_ee() in /home/inditclx/public_html/wp-content/plugins/product-slider-for-woocommerce/inc/admin/psfw-about-page.php:69
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/product-slider-for-woocommerce/product-slider-for-woocommerce.php(511): include()
+#1 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): PSFW_Class->psfw_about_callback('')
+#2 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 /home/inditclx/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/inditclx/public_html/wp-admin/admin.php(254): do_action('productsliderwo...')
+#5 /home/inditclx/public_html/wp-admin/edit.php(10): require_once('/home/inditclx/...')
+#6 {main}
+  thrown in /home/inditclx/public_html/wp-content/plugins/product-slider-for-woocommerce/inc/admin/psfw-about-page.php on line 69
+

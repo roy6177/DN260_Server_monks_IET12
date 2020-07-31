@@ -1,0 +1,48 @@
+2020-07-02T15:55:13+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-geolocation.php:148
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-geolocation.php(38): Xoo_Ml_Geolocation::geolocate_via_api('103.53.42.63')
+#1 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-geolocation.php(157): Xoo_Ml_Geolocation::get_data()
+#2 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml.php(34): require_once('/home/inditclx/...')
+#3 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml.php(21): XOO_ML->includes()
+#4 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml.php(14): XOO_ML->__construct()
+#5 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/xoo-ml-main.php(47): XOO_ML::get_instance()
+#6 /ho in /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-geolocation.php on line 148
+
+2020-07-02T15:55:13+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-geolocation.php:148
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-geolocation.php(35): Xoo_Ml_Geolocation::geolocate_via_api('66.102.7.119')
+#1 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-otp-handler.php(22): Xoo_Ml_Geolocation::get_data()
+#2 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-otp-handler.php(15): Xoo_Ml_Otp_Handler->__construct()
+#3 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-otp-handler.php(277): Xoo_Ml_Otp_Handler::get_instance()
+#4 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-otp-handler.php(279): xoo_ml_otp_handler()
+#5 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce in /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-geolocation.php on line 148
+
+2020-07-02T15:55:15+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-geolocation.php:148
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-geolocation.php(35): Xoo_Ml_Geolocation::geolocate_via_api('66.102.7.40')
+#1 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-geolocation.php(157): Xoo_Ml_Geolocation::get_data()
+#2 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml.php(34): require_once('/home/inditclx/...')
+#3 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml.php(21): XOO_ML->includes()
+#4 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml.php(14): XOO_ML->__construct()
+#5 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/xoo-ml-main.php(47): XOO_ML::get_instance()
+#6 /hom in /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-geolocation.php on line 148
+
+2020-07-02T15:55:16+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-geolocation.php:148
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-geolocation.php(35): Xoo_Ml_Geolocation::geolocate_via_api('66.249.88.58')
+#1 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-geolocation.php(157): Xoo_Ml_Geolocation::get_data()
+#2 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml.php(34): require_once('/home/inditclx/...')
+#3 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml.php(21): XOO_ML->includes()
+#4 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml.php(14): XOO_ML->__construct()
+#5 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/xoo-ml-main.php(47): XOO_ML::get_instance()
+#6 /ho in /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-geolocation.php on line 148
+
+2020-07-02T15:55:21+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-geolocation.php:148
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-geolocation.php(35): Xoo_Ml_Geolocation::geolocate_via_api('66.249.88.89')
+#1 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-otp-handler.php(22): Xoo_Ml_Geolocation::get_data()
+#2 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-otp-handler.php(15): Xoo_Ml_Otp_Handler->__construct()
+#3 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-otp-handler.php(277): Xoo_Ml_Otp_Handler::get_instance()
+#4 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-otp-handler.php(279): xoo_ml_otp_handler()
+#5 /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce in /home/inditclx/public_html/wp-content/plugins/mobile-login-woocommerce/includes/class-xoo-ml-geolocation.php on line 148
+

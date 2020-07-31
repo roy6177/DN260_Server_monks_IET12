@@ -1,0 +1,23 @@
+
+Jul 21, 2020 15.00.05: Uncaught Error: Class 'Elementor\Core\Common\App' not found in /home/inditclx/public_html/wp-content/plugins/elementor/includes/plugin.php:610
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/elementor/includes/plugin.php(542): Elementor\Plugin->init_common()
+#1 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Elementor\Plugin->on_rest_api_init(Object(WP_REST_Server))
+#2 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /home/inditclx/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/inditclx/public_html/wp-includes/rest-api.php(479): do_action('rest_api_init', Object(WP_REST_Server))
+#5 /home/inditclx/public_html/wp-includes/rest-api.php(305): rest_get_server()
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#7 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#8 /home/inditclx/public_html/wp-includes/plugin.php
+
+Jul 21, 2020 16.38.06: Uncaught Error: Class 'WC_Shortcode_Products' not found in /home/inditclx/public_html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php:492
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/shortcodes.php(343): WC_Shortcodes::featured_products(Array, '', 'featured_produc...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/inditclx/public_html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(featur...', 'do_shortcode_ta...', '<p>[featured_pr...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(289): do_shortcode('<p>[featured_pr...')
+#4 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('<p>[featured_pr...', Array)
+#5 /home/inditclx/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(371): apply_filters('widget_text', '<p>[featured_pr...', Array)
+#6 /home/inditclx/public_html/wp-content/plugins/elementor/includes/widgets/text-editor.php(396): Elementor\Widget_Base->parse_text_editor('<p>[featured_pr...')
+#

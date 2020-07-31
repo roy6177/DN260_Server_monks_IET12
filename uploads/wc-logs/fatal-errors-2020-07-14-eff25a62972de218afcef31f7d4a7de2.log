@@ -1,0 +1,9 @@
+2020-07-14T22:35:54+00:00 CRITICAL Uncaught InvalidArgumentException: Invalid receipt section line item. Please provide valid line item id, label, and value. in /home/inditclx/public_html/wp-content/plugins/give/src/Receipt/Section.php:150
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/give/src/Receipt/Section.php(89): Give\Receipt\Section->validateLineItem(Array)
+#1 /home/inditclx/public_html/wp-content/plugins/give/src/Receipt/DonationReceipt.php(60): Give\Receipt\Section->addLineItem(Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Receipt/DonationReceipt.php(45): Give\Receipt\DonationReceipt->addDonorSection()
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/Templates/Sequoia/Sequoia.php(300): Give\Receipt\DonationReceipt->__construct(0)
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/Templates/Sequoia/views/receipt.php(18): Give\Views\Form\Templates\Sequoia\Sequoia->getReceiptDetails(0)
+#5 /home/inditclx/public_html/wp-content/plugins/give/src/Form/LoadTemplate.php(13 in /home/inditclx/public_html/wp-content/plugins/give/src/Receipt/Section.php on line 150
+

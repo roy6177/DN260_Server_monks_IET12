@@ -1,0 +1,363 @@
+# Copyright (C) 2019 UkrSolution
+# This file is distributed under the same license as the Print Barcodes on Label Sheets for Wordpress & WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Print Barcodes on Label Sheets for Wordpress & WooCommerce 2.8.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/a4-barcodes1\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-05-08T11:44:47+03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.1.0\n"
+"X-Domain: wpbcu-barcode-generator\n"
+
+#. Plugin Name of the plugin
+msgid "Print Barcodes on Label Sheets for Wordpress & WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.ukrsolution.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Create and Print barcodes on label sheets using a printer. Best tool to make inventory of your stock."
+msgstr ""
+
+#. Author of the plugin
+msgid "UkrSolution"
+msgstr ""
+
+#: class/Formats.php:28
+#: class/Formats.php:360
+msgid "Data was not deleted."
+msgstr ""
+
+#: class/Formats.php:34
+#: class/Formats.php:366
+msgid "Data successfully deleted."
+msgstr ""
+
+#: class/BarcodeTemplates/BarcodeTemplatesController.php:60
+msgid "Template saved successfully!"
+msgstr ""
+
+#: class/BarcodeTemplates/BarcodeTemplatesController.php:117
+msgid "Template updated successfully!"
+msgstr ""
+
+#: class/Core.php:63
+#: class/Core.php:64
+msgid "Barcode Generator"
+msgstr ""
+
+#: class/Core.php:73
+#: class/Core.php:74
+msgid "Create Manually"
+msgstr ""
+
+#: class/Core.php:82
+#: class/Core.php:83
+msgid "Import selected items"
+msgstr ""
+
+#: class/Core.php:93
+#: class/Core.php:94
+msgid "Import categories"
+msgstr ""
+
+#: class/Core.php:103
+#: class/Core.php:104
+#: class/Core.php:112
+#: class/Core.php:113
+#: class/Core.php:123
+#: class/Core.php:124
+msgid "Custom Templates"
+msgstr ""
+
+#: class/Core.php:132
+#: class/Core.php:133
+msgid "FAQ"
+msgstr ""
+
+#: class/Core.php:142
+#: class/Core.php:143
+msgid "Barcode-Generator Page"
+msgstr ""
+
+#: class/Core.php:153
+#: class/Core.php:154
+msgid "Support"
+msgstr ""
+
+#: class/Barcodes.php:78
+msgid "The \"Code\" field has an empty value."
+msgstr ""
+
+#: class/Barcodes.php:88
+msgid "\"Code\" field contains incorrect data. It must contain 8 digits. 7 digits and 8th is a checksum digit calculated by formula. Check more on <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/EAN-8\">Wiki</a>."
+msgstr ""
+
+#: class/Barcodes.php:95
+msgid "\"Code\" field contains incorrect data. It must contain 13 digits. 12 digits and 13th is a checksum digit calculated by formula. Check more on <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/International_Article_Number\">Wiki</a>."
+msgstr ""
+
+#: class/Barcodes.php:102
+msgid "\"Code\" field contains incorrect data. It must contain 12 digits. 11 digits and 12th is a checksum digit calculated by formula. Check more on <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Universal_Product_Code\">Wiki</a>."
+msgstr ""
+
+#: class/Barcodes.php:109
+msgid "\"Code\" field contains incorrect data. It must contain 6 digits. UPC-E is a variation of UPC-A which allows for a more compact barcode by eliminating \"extra\" zeros. Check more on <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Universal_Product_Code#UPC-E\">Wiki</a>."
+msgstr ""
+
+#: class/Barcodes.php:117
+msgid "\"Code\" field contains incorrect data. Code 128 supports alphanumeric or numeric-only barcodes. It can encode all 128 characters of ASCII encoding."
+msgstr ""
+
+#: class/Barcodes.php:125
+msgid "\"Code\" field contains incorrect data. Code 39 supports 43 characters, consisting of letters (A-Z), numeric digits (0 through 9) and a number of special characters (-, ., $, /, +, %, and space)."
+msgstr ""
+
+#: templates/barcode-templates.php:2
+msgid "Template Settings"
+msgstr ""
+
+#: templates/barcode-templates.php:3
+msgid "On this page you can create your own label template and use it for label printing."
+msgstr ""
+
+#: templates/barcode-templates.php:4
+msgid "Before creation of your own template please check predefined examples to learn HTML code structure for template."
+msgstr ""
+
+#: templates/barcode-templates.php:6
+msgid "If you need help with it you can ask your web-developer or contact us by email: <a href=\"mailto:support@ukrsolution.com\">support@ukrsolution.com</a>, and provide us with all details about label template you would like to create."
+msgstr ""
+
+#: templates/barcode-templates.php:16
+msgid "Select template"
+msgstr ""
+
+#: templates/barcode-templates.php:30
+msgid "Set active"
+msgstr ""
+
+#: templates/barcode-templates.php:33
+#: config/jsL10n.php:43
+#: config/jsL10n.php:48
+msgid "Add new"
+msgstr ""
+
+#: templates/barcode-templates.php:45
+#: config/jsL10n.php:33
+msgid "Name"
+msgstr ""
+
+#: templates/barcode-templates.php:59
+msgid "HTML Template"
+msgstr ""
+
+#: templates/barcode-templates.php:69
+msgid "To specify where image and texts should be placed use next placeholders in html"
+msgstr ""
+
+#: templates/barcode-templates.php:74
+msgid "Preview"
+msgstr ""
+
+#: templates/barcode-templates.php:93
+#: templates/barcode-templates.php:119
+msgid "Label width"
+msgstr ""
+
+#: templates/barcode-templates.php:102
+#: templates/barcode-templates.php:123
+msgid "Label height"
+msgstr ""
+
+#: templates/barcode-templates.php:109
+msgid "Unit of length"
+msgstr ""
+
+#: templates/barcode-templates.php:120
+#: templates/barcode-templates.php:124
+msgid "Any"
+msgstr ""
+
+#: templates/barcode-templates.php:135
+msgid "Save Changes"
+msgstr ""
+
+#: templates/barcode-templates.php:146
+msgid "Delete"
+msgstr ""
+
+#: templates/barcode-templates.php:154
+#: config/jsL10n.php:6
+msgid "Cancel"
+msgstr ""
+
+#. translators: %s: Name of a validated field
+#: config/config.php:16
+msgid "No %s parameter specified."
+msgstr ""
+
+#. translators: %s: Name of a validated field
+#: config/config.php:18
+msgid "Please select at least one item and try again."
+msgstr ""
+
+#. translators: %s: Name of a validated field
+#: config/config.php:20
+msgid "The %s parameter is not a number."
+msgstr ""
+
+#. translators: %s: Name of a validated field
+#: config/config.php:22
+msgid "The %s parameter is not a boolean."
+msgstr ""
+
+#. translators: %s: Name of a validated field
+#: config/config.php:24
+msgid "The %s parameter is not an array."
+msgstr ""
+
+#. translators: %s: Name of a validated field
+#: config/config.php:26
+msgid "In the %s parameter, an invalid value was specified."
+msgstr ""
+
+#. translators: %s: Name of a validated field
+#: config/config.php:28
+msgid "Imperfect HTML markup in the %s parameter."
+msgstr ""
+
+#: config/jsL10n.php:4
+msgid "Tip"
+msgstr ""
+
+#: config/jsL10n.php:5
+msgid "Apply"
+msgstr ""
+
+#: config/jsL10n.php:7
+msgid "Check"
+msgstr ""
+
+#: config/jsL10n.php:8
+msgid "Problem connect to server!</br>Please reload page, if error will repeat.</br> Report us about problem. <a href=\"mailto:support@ukrsolution.com\">@Support</a>"
+msgstr ""
+
+#: config/jsL10n.php:9
+msgid "Custom Fields"
+msgstr ""
+
+#: config/jsL10n.php:10
+msgid "Please specify name of custom field here."
+msgstr ""
+
+#: config/jsL10n.php:11
+msgid "It might look like \"tshirt_size\", \"upc_code\" or \"my_custom_field\". Usually name/key of custom field is specified in plugin where it was created."
+msgstr ""
+
+#: config/jsL10n.php:12
+msgid "Custom field name is correct, {{count}} products has been found with this field."
+msgstr ""
+
+#: config/jsL10n.php:13
+msgid "0 products has been found with this custom field.<br/>Please check if entered name matches with actual custom field's name."
+msgstr ""
+
+#: config/jsL10n.php:15
+msgid "Barcodes - Create Manually"
+msgstr ""
+
+#: config/jsL10n.php:16
+msgid "Barcodes - Import Selected Items"
+msgstr ""
+
+#: config/jsL10n.php:17
+msgid "Barcodes - Import products from categories"
+msgstr ""
+
+#: config/jsL10n.php:19
+msgid "Import"
+msgstr ""
+
+#: config/jsL10n.php:20
+msgid "Add to page"
+msgstr ""
+
+#: config/jsL10n.php:22
+msgid "To create barcodes, please select categories"
+msgstr ""
+
+#: config/jsL10n.php:23
+#: config/jsL10n.php:24
+msgid "Match barcode fields with products fields"
+msgstr ""
+
+#: config/jsL10n.php:26
+msgid "Select column with SKU, UPC or other code"
+msgstr ""
+
+#: config/jsL10n.php:27
+msgid "Select column with product name"
+msgstr ""
+
+#: config/jsL10n.php:28
+msgid "Display product field or text under \"Name\""
+msgstr ""
+
+#: config/jsL10n.php:29
+msgid "Display product field or text under \"Code\""
+msgstr ""
+
+#: config/jsL10n.php:30
+msgid "Select type of barcode"
+msgstr ""
+
+#: config/jsL10n.php:32
+msgid "Code"
+msgstr ""
+
+#: config/jsL10n.php:34
+msgid "Text 1"
+msgstr ""
+
+#: config/jsL10n.php:35
+msgid "Text 2"
+msgstr ""
+
+#: config/jsL10n.php:36
+msgid "Type"
+msgstr ""
+
+#: config/jsL10n.php:37
+msgid "Include variations"
+msgstr ""
+
+#: config/jsL10n.php:38
+#: config/jsL10n.php:40
+msgid "Use stock quantity"
+msgstr ""
+
+#: config/jsL10n.php:42
+#: config/jsL10n.php:47
+msgid "Paper type"
+msgstr ""
+
+#: config/jsL10n.php:44
+msgid "Pages"
+msgstr ""
+
+#: config/jsL10n.php:45
+msgid "Clear"
+msgstr ""
+
+#: config/jsL10n.php:49
+msgid "Print"
+msgstr ""

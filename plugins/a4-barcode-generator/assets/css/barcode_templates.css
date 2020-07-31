@@ -1,0 +1,115 @@
+/*.barcode-template-preview-box {*/
+  /*width: 300px;*/
+  /*height: 200px;*/
+/*}*/
+.barcode-template-preview-box {
+  width: 70mm;
+  height: 37mm;
+}
+
+.barcode-template-preview-box .barcode-label {
+  text-align: center;
+  height: 100%;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  outline: 1px dashed #333333;
+  background-color: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  padding: 8px;
+}
+
+.barcode-template-preview-box .barcode-label .barcode-label-text {
+  font-size: 14px;
+  line-height: 1.1;
+  padding: 0 5px 0;
+}
+
+.barcode-template-preview-box .barcode-label .barcode-label-image-wrapper {
+  height: 33%;
+}
+
+.iframe-test {
+  position: absolute;
+  top: 0;
+}
+
+input.template-size {
+  width: 85px;
+  line-height: 19px;
+}
+.template-field-small {
+  width: 61px;
+}
+
+.CodeMirror {
+  height: auto !important;
+}
+.CodeMirror .CodeMirror-scroll {
+  min-height: 320px !important;
+  max-height: 600px !important;
+}
+.CodeMirror .CodeMirror-sizer {
+  min-width: 600px !important;
+}
+
+.barcode-print.barcode-label-image-wrapper {
+  overflow: hidden;
+}
+
+.wp-barcodes-custom-templates table.form-table{
+  table-layout: auto !important;
+}
+
+.wp-barcodes-custom-templates table.form-table td{
+  margin-bottom: 9px !important;
+  padding: 15px 10px !important;
+}
+.wpbc-template-sizes-table {
+  margin-top: 24px;
+}
+.wp-barcodes-custom-templates table.wpbc-template-sizes-table td {
+  padding: 1px !important;
+}
+
+/*Hide spinner for base_padding_uol field*/
+input[name="base_padding_uol"]::-webkit-outer-spin-button,
+input[name="base_padding_uol"]::-webkit-inner-spin-button {
+  /* display: none; <- Crashes Chrome on hover */
+  -webkit-appearance: none;
+  margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+input[name="base_padding_uol"] {
+  -moz-appearance:textfield; /* Firefox */
+}
+/*Hide spinner for base_padding_uol field END*/
+
+/*Tabs*/
+.a4b-tab {
+  display: none;
+}
+.a4b-tab-active {
+  display: block;
+}
+/*Tabs END*/
+
+/*CodeMirror overlap fix*/
+#adminmenuback {
+  z-index: 5 !important;
+}
+/*CodeMirror overlap fix END*/

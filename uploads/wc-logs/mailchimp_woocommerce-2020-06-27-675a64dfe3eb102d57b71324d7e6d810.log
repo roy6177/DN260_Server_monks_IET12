@@ -1,0 +1,47 @@
+2020-06-27T10:06:55+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 3939
+2020-06-27T10:07:09+00:00 NOTICE product_submit.success :: updateStoreProduct :: #3939
+2020-06-27T17:54:20+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 3729fd0cc163c2d7096f8d69256a4e81
+2020-06-27T17:54:41+00:00 NOTICE abandoned_cart.success :: email: snehasisroy337@gmail.com :: checkout_url: https://inditribes.co.in/checkout/?mc_cart_id=3729fd0cc163c2d7096f8d69256a4e81
+2020-06-27T17:54:43+00:00 NOTICE cart.member.updated :: Updated snehasisroy337@gmail.com subscriber status to transactional and language to en
+2020-06-27T17:54:53+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 3729fd0cc163c2d7096f8d69256a4e81
+2020-06-27T17:54:53+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id f2fda7198845022a74f497c6cf0f3e1a
+2020-06-27T17:55:31+00:00 NOTICE abandoned_cart.success :: email: snehasisroy337@gmail.com :: checkout_url: https://inditribes.co.in/checkout/?mc_cart_id=3729fd0cc163c2d7096f8d69256a4e81
+2020-06-27T17:55:33+00:00 NOTICE abandoned_cart.success :: email: sohamroy007@rediff.com :: checkout_url: https://inditribes.co.in/checkout/?mc_cart_id=f2fda7198845022a74f497c6cf0f3e1a
+2020-06-27T17:55:34+00:00 NOTICE cart.member.updated :: Updated sohamroy007@rediff.com subscriber status to transactional and language to en
+2020-06-27T17:55:52+00:00 NOTICE ac.cart_swap :: Deleted cart [sohamroy007@rediff.com] :: ID [f2fda7198845022a74f497c6cf0f3e1a]
+2020-06-27T17:55:53+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 3729fd0cc163c2d7096f8d69256a4e81
+2020-06-27T17:56:01+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 4264
+2020-06-27T17:56:05+00:00 NOTICE debug :: Order ID 4264 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://inditribes.co.in/wp-json/jetpack/v4/jitm?message_path=wp%3Atoplevel_page_xoo-el%3Aadmin_notices&query=page%253Dxoo-el&full_jp_logo_exists=false&_wpnonce=41e875b7da
+        )
+
+)
+
+2020-06-27T17:56:06+00:00 NOTICE abandoned_cart.success :: email: snehasisroy337@gmail.com :: checkout_url: https://inditribes.co.in/checkout/?mc_cart_id=3729fd0cc163c2d7096f8d69256a4e81
+2020-06-27T17:57:52+00:00 NOTICE order.member.updated :: Updated snehasisroy337@gmail.com subscriber status to subscribed and language to en
+2020-06-27T17:57:52+00:00 NOTICE order_submit.success :: addStoreOrder :: #4264 :: email: snehasisroy337@gmail.com :: landing site https://inditribes.co.in/wp-json/jetpack/v4/jitm?message_path=wp%3Atoplevel_page_xoo-el%3Aadmin_notices&query=page%253Dxoo-el&full_jp_logo_exists=false&_wpnonce=41e875b7da :: abandoned cart deleted [3729fd0cc163c2d7096f8d69256a4e81]
+2020-06-27T18:01:46+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 4264
+2020-06-27T18:01:46+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 9
+2020-06-27T18:01:47+00:00 NOTICE debug :: Order ID 4264 was processing and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-06-27T18:01:53+00:00 NOTICE member.sync :: Updated Member snehasisroy337@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Snehasis
+            [LNAME] => Roy
+        )
+
+)
+
+2020-06-27T18:03:54+00:00 NOTICE order.member.updated :: Updated snehasisroy337@gmail.com subscriber status to subscribed and language to 
+2020-06-27T18:03:54+00:00 NOTICE order_submit.success :: updateStoreOrder :: #4264 :: email: snehasisroy337@gmail.com

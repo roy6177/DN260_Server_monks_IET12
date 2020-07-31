@@ -1,0 +1,129 @@
+2020-07-11T04:08:37+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4964
+2020-07-11T04:09:12+00:00 NOTICE product_submit.error :: addStoreProduct :: #4964 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T04:12:21+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4966
+2020-07-11T04:12:38+00:00 NOTICE product_submit.error :: addStoreProduct :: #4966 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T04:16:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4969
+2020-07-11T04:16:28+00:00 NOTICE product_submit.error :: addStoreProduct :: #4969 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T04:28:08+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4969
+2020-07-11T04:28:34+00:00 NOTICE product_submit.error :: addStoreProduct :: #4969 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T04:33:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4989
+2020-07-11T04:33:19+00:00 NOTICE product_submit.error :: addStoreProduct :: #4989 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T04:36:01+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4992
+2020-07-11T04:36:26+00:00 NOTICE product_submit.error :: addStoreProduct :: #4992 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T04:38:53+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4994
+2020-07-11T04:39:08+00:00 NOTICE product_submit.error :: addStoreProduct :: #4994 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T04:43:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4999
+2020-07-11T04:44:19+00:00 NOTICE product_submit.error :: addStoreProduct :: #4999 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T04:44:56+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4999
+2020-07-11T04:45:09+00:00 NOTICE product_submit.error :: addStoreProduct :: #4999 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T04:45:38+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4994
+2020-07-11T04:46:17+00:00 NOTICE product_submit.error :: addStoreProduct :: #4994 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T04:50:32+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5004
+2020-07-11T04:51:12+00:00 NOTICE product_submit.error :: addStoreProduct :: #5004 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T04:59:20+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4601
+2020-07-11T05:01:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4394
+2020-07-11T05:01:23+00:00 NOTICE product_submit.error :: addStoreProduct :: #4601 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T05:01:24+00:00 NOTICE product_submit.error :: addStoreProduct :: #4394 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T05:02:44+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4399
+2020-07-11T05:03:02+00:00 NOTICE product_submit.error :: addStoreProduct :: #4399 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T05:03:57+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4407
+2020-07-11T05:04:09+00:00 NOTICE product_submit.error :: addStoreProduct :: #4407 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T05:04:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4591
+2020-07-11T05:05:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4594
+2020-07-11T05:05:57+00:00 NOTICE product_submit.error :: addStoreProduct :: #4591 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T05:05:57+00:00 NOTICE product_submit.error :: addStoreProduct :: #4594 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T05:06:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4399
+2020-07-11T05:07:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4596
+2020-07-11T05:07:21+00:00 NOTICE product_submit.error :: addStoreProduct :: #4399 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T05:07:30+00:00 NOTICE product_submit.error :: addStoreProduct :: #4596 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T05:08:00+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4601
+2020-07-11T05:08:07+00:00 NOTICE product_submit.error :: addStoreProduct :: #4601 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T05:09:30+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4609
+2020-07-11T05:10:23+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4613
+2020-07-11T05:10:31+00:00 NOTICE product_submit.error :: addStoreProduct :: #4609 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T05:12:06+00:00 NOTICE product_submit.error :: addStoreProduct :: #4613 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T05:12:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5004
+2020-07-11T05:18:47+00:00 NOTICE product_submit.error :: addStoreProduct :: #5004 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T07:31:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5005
+2020-07-11T07:33:04+00:00 NOTICE product_submit.error :: addStoreProduct :: #5005 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T10:47:47+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 4707
+2020-07-11T10:47:49+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 11
+2020-07-11T10:47:54+00:00 NOTICE debug :: Order ID 4707 was processing and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-07-11T10:48:35+00:00 NOTICE member.sync :: Updated Member drivespacet1@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Sample
+            [LNAME] => User
+        )
+
+)
+
+2020-07-11T10:50:12+00:00 ERROR order_submit.error :: addStoreOrder :: #4707 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T10:53:06+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2020-07-11T10:53:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 5037
+2020-07-11T10:53:25+00:00 NOTICE debug :: Order ID 5037 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://inditribes.co.in/wp-admin/admin-ajax.php?_fs_blog_admin=true
+        )
+
+)
+
+2020-07-11T10:53:25+00:00 NOTICE member.sync :: Updated Member admin@inditribes.co.in ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Server
+            [LNAME] => Monks
+        )
+
+)
+
+2020-07-11T10:55:35+00:00 ERROR order_submit.error :: addStoreOrder :: #5037 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T11:03:16+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 5037
+2020-07-11T11:03:27+00:00 NOTICE debug :: Order ID 5037 was processing and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-07-11T11:07:07+00:00 ERROR order_submit.error :: addStoreOrder :: #5037 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T14:23:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5064
+2020-07-11T14:24:10+00:00 NOTICE product_submit.error :: addStoreProduct :: #5064 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T14:28:51+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5070
+2020-07-11T14:29:04+00:00 NOTICE product_submit.error :: addStoreProduct :: #5070 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T14:33:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5075
+2020-07-11T14:34:45+00:00 NOTICE product_submit.error :: addStoreProduct :: #5075 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T14:46:46+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5078
+2020-07-11T14:47:15+00:00 NOTICE product_submit.error :: addStoreProduct :: #5078 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T14:50:40+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5080
+2020-07-11T14:51:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5081
+2020-07-11T14:51:07+00:00 NOTICE product_submit.error :: addStoreProduct :: #5080 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T14:52:08+00:00 NOTICE product_submit.error :: addStoreProduct :: #5081 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T14:56:29+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5084
+2020-07-11T14:57:19+00:00 NOTICE product_submit.error :: addStoreProduct :: #5084 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T14:59:00+00:00 NOTICE product.delete_fail :: Unable to deleted product 5081
+2020-07-11T15:26:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5085
+2020-07-11T15:27:21+00:00 NOTICE product_submit.error :: addStoreProduct :: #5085 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T15:40:54+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5087
+2020-07-11T15:41:05+00:00 NOTICE product_submit.error :: addStoreProduct :: #5087 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-11T19:59:19+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2020-07-11T19:59:39+00:00 NOTICE member.sync :: Updated Member admin@inditribes.co.in ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Sererererererererere
+            [LNAME] => Monks
+        )
+
+)
+

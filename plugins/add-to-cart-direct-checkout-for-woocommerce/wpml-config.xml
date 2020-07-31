@@ -1,0 +1,6 @@
+<wpml-config>
+    <admin-texts>
+        <key name="pi_dcw_add_to_cart_text"/>
+        <key name="pi_dcw_quick_view_text"/>
+    </admin-texts>
+</wpml-config>

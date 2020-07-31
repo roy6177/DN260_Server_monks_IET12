@@ -1,0 +1,121 @@
+2020-07-19T19:28:51+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-19T19:28:56+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-19T19:28:56+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-19T19:28:58+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-19T19:51:48+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php:158
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php(224): YITH_WC_Subscription->is_subscription(false)
+#1 /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription-order.php(135): YITH_WC_Subscription->cart_has_subscriptions()
+#2 /home/inditclx/public_html/wp-includes/class-wp-hook.php(289): YWSBS_Subscription_Order->get_extra_subscription_meta(5792, Array)
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/inditclx/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/inditclx/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1156): do_action('woocommerce_che...', 5792, Array, Object(Automattic\W in /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php on line 158
+
+2020-07-19T19:52:43+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php:158
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php(224): YITH_WC_Subscription->is_subscription(false)
+#1 /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription-order.php(135): YITH_WC_Subscription->cart_has_subscriptions()
+#2 /home/inditclx/public_html/wp-includes/class-wp-hook.php(289): YWSBS_Subscription_Order->get_extra_subscription_meta(5793, Array)
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/inditclx/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/inditclx/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1156): do_action('woocommerce_che...', 5793, Array, Object(Automattic\W in /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php on line 158
+
+2020-07-19T19:55:32+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php:158
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php(224): YITH_WC_Subscription->is_subscription(false)
+#1 /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription-order.php(135): YITH_WC_Subscription->cart_has_subscriptions()
+#2 /home/inditclx/public_html/wp-includes/class-wp-hook.php(289): YWSBS_Subscription_Order->get_extra_subscription_meta(5795, Array)
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/inditclx/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/inditclx/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1156): do_action('woocommerce_che...', 5795, Array, Object(Automattic\W in /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php on line 158
+
+2020-07-19T19:56:14+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php:158
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php(224): YITH_WC_Subscription->is_subscription(false)
+#1 /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription-order.php(135): YITH_WC_Subscription->cart_has_subscriptions()
+#2 /home/inditclx/public_html/wp-includes/class-wp-hook.php(289): YWSBS_Subscription_Order->get_extra_subscription_meta(5796, Array)
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/inditclx/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/inditclx/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1156): do_action('woocommerce_che...', 5796, Array, Object(Automattic\W in /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php on line 158
+
+2020-07-19T19:56:33+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php:158
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php(224): YITH_WC_Subscription->is_subscription(false)
+#1 /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription-order.php(135): YITH_WC_Subscription->cart_has_subscriptions()
+#2 /home/inditclx/public_html/wp-includes/class-wp-hook.php(289): YWSBS_Subscription_Order->get_extra_subscription_meta(5798, Array)
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/inditclx/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/inditclx/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1156): do_action('woocommerce_che...', 5798, Array, Object(Automattic\W in /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php on line 158
+
+2020-07-19T19:58:00+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php:158
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php(224): YITH_WC_Subscription->is_subscription(false)
+#1 /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription-order.php(135): YITH_WC_Subscription->cart_has_subscriptions()
+#2 /home/inditclx/public_html/wp-includes/class-wp-hook.php(289): YWSBS_Subscription_Order->get_extra_subscription_meta(5799, Array)
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/inditclx/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/inditclx/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1156): do_action('woocommerce_che...', 5799, Array, Object(Automattic\W in /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php on line 158
+
+2020-07-19T20:03:33+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php:158
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php(224): YITH_WC_Subscription->is_subscription(false)
+#1 /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription-order.php(135): YITH_WC_Subscription->cart_has_subscriptions()
+#2 /home/inditclx/public_html/wp-includes/class-wp-hook.php(289): YWSBS_Subscription_Order->get_extra_subscription_meta(5802, Array)
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/inditclx/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/inditclx/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1156): do_action('woocommerce_che...', 5802, Array, Object(Automattic\W in /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php on line 158
+
+2020-07-19T20:07:48+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php:158
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php(224): YITH_WC_Subscription->is_subscription(false)
+#1 /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription-order.php(135): YITH_WC_Subscription->cart_has_subscriptions()
+#2 /home/inditclx/public_html/wp-includes/class-wp-hook.php(289): YWSBS_Subscription_Order->get_extra_subscription_meta(5803, Array)
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/inditclx/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/inditclx/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1156): do_action('woocommerce_che...', 5803, Array, Object(Automattic\W in /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php on line 158
+
+2020-07-19T20:08:23+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php:158
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php(224): YITH_WC_Subscription->is_subscription(false)
+#1 /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription-order.php(135): YITH_WC_Subscription->cart_has_subscriptions()
+#2 /home/inditclx/public_html/wp-includes/class-wp-hook.php(289): YWSBS_Subscription_Order->get_extra_subscription_meta(5804, Array)
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/inditclx/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/inditclx/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1156): do_action('woocommerce_che...', 5804, Array, Object(Automattic\W in /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php on line 158
+

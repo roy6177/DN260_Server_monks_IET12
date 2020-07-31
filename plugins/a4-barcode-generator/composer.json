@@ -1,0 +1,27 @@
+{
+    "name": "ukrsolution/wp-barcodes-generator",
+    "minimum-stability": "dev",
+    "config": {
+        "vendor-dir": "lib"
+    },
+    "autoload": {
+        "files": [
+            "lib/tcpdf_barcodes_1d.php"
+        ],
+        "classmap": [
+        ],
+        "psr-4": {
+            "UkrSolution\\WpBarcodesGenerator\\": "class",
+            "Com\\Tecnick\\Barcode\\": "lib/tecnickcom/tc-lib-barcode",
+            "Com\\Tecnick\\Color\\": "lib/tecnickcom/tc-lib-color",
+            "Milon\\Barcode\\": "lib/barcode_generator",
+            "Melgrati\\CodeValidator\\": "lib/barcode_validator",
+            "Kreativekorp\\": "lib/kreativekorp"
+        }
+    },
+  "require": {
+    "ext-dom": "*",
+    "ext-libxml": "*",
+    "ext-gd": "*"
+  }
+}

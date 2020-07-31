@@ -1,0 +1,52 @@
+2020-06-28T07:26:15+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: You have received an Order #4274
+2020-06-28T07:26:16+00:00 DEBUG SMS:: +918334022615 : Indi Tribes: You have received an Order #4274 for Brass Tribal Lady Working Showpiece (13 cm x 15 cm x 25 cm)
+2020-06-28T08:39:43+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: You have received an Order #4275
+2020-06-28T08:39:44+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: You have received an Order #4275 for HANDCRAFTED BLUE COTTON BANJARA HAND PURSE FOR WOMEN
+2020-06-28T08:53:37+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: You have received an Order #4276
+2020-06-28T08:53:38+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: You have received an Order #4276 for HANDWOVEN NEHRU COLLAR FULL SLEEVE GREEN SHIRT
+2020-06-28T14:00:56+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: You have received an Order #4279
+2020-06-28T14:00:56+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: You have received an Order #4279 for HANDWOVEN NEHRU COLLAR FULL SLEEVE GREEN SHIRT
+2020-06-28T15:32:15+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: You have received an Order #4295
+2020-06-28T15:32:16+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: You have received an Order #4295 for HANDCRAFTED BLUE COTTON BANJARA HAND PURSE FOR WOMEN
+2020-06-28T15:32:17+00:00 DEBUG SMS:: +918334022615 : Indi Tribes: You have received an Order #4295 for Brass Tribal Lady Working Showpiece (13 cm x 15 cm x 25 cm)
+2020-06-28T15:32:18+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: You have received an Order #4295 for HANDWOVEN NEHRU COLLAR FULL SLEEVE GREEN SHIRT
+2020-06-28T15:32:20+00:00 DEBUG SMS:: +918334022615 : Indi Tribes: You have received an Order #4295 for Brass Elephant Rider Showpiece (29 cm x 23 cm x 68 cm)
+2020-06-28T15:32:21+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: You have received an Order #4295 for HANDWOVEN NEHRU COLLAR FULL SLEEVE GREEN SHIRT
+2020-06-28T15:35:15+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: You have received an Order #4297
+2020-06-28T15:35:15+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: You have received an Order #4297 for HANDWOVEN NEHRU COLLAR FULL SLEEVE GREEN SHIRT
+2020-06-28T16:48:28+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: You have received an Order #4324
+2020-06-28T16:48:28+00:00 DEBUG SMS:: +918334022615 : Indi Tribes: You have received an Order #4324 for Brass Buddha Face Statue
+2020-06-28T16:50:41+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: You have received an Order #4325
+2020-06-28T16:50:42+00:00 DEBUG SMS:: +918334022615 : Indi Tribes: You have received an Order #4325 for Brass Buddha Face Statue
+2020-06-28T17:05:06+00:00 DEBUG SMS:: +918334022615 : Indi Tribes: #4325 order status updated to Cancel Request
+2020-06-28T17:06:45+00:00 DEBUG SMS:: +918334022615 : Indi Tribes: #4325 order status updated to Cancelled
+2020-06-28T17:24:52+00:00 DEBUG SMS:: +918334022615 : Indi Tribes: #4324 order status updated to Pending payment
+2020-06-28T17:39:26+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: You have received an Order #4331
+2020-06-28T17:39:27+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: You have received an Order #4331 for HANDWOVEN NEHRU COLLAR FULL SLEEVE GREEN SHIRT
+2020-06-28T18:32:33+00:00 DEBUG SMS:: +918334022615 : Indi Tribes: #4324 order status updated to Cancelled
+2020-06-28T18:38:41+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: #4331 order status updated to Cancel Request
+2020-06-28T18:44:58+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: #4331 order status updated to Cancelled
+2020-06-28T18:45:00+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: #4331 order status updated to Cancelled by admin
+2020-06-28T18:47:08+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: #4297 order status updated to Completed by Roy Stores
+2020-06-28T18:51:25+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: #4295 order status updated to Completed
+2020-06-28T18:51:26+00:00 DEBUG SMS:: +918334022615 : Indi Tribes: #4295 order status updated to Completed
+2020-06-28T19:21:51+00:00 DEBUG Invalid refund amount. args => {"amount":733,"reason":"refund","order_id":3873,"line_items":{"1":{"refund_total":733,"refund_tax":[],"qty":"1"}},"refund_payment":false,"restock_items":"true"}
+2020-06-28T21:04:43+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: #4279 order status updated to Refunded
+2020-06-28T21:13:01+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: Vendor Roy Stores has placed a Withdrawal Request #000001.
+2020-06-28T21:15:33+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: #3902 order status updated to Completed
+2020-06-28T21:15:35+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: #3902 order status updated to Completed by admin
+2020-06-28T21:16:08+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: #4276 order status updated to Completed
+2020-06-28T21:16:09+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: #4276 order status updated to Completed by admin
+2020-06-28T21:16:20+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: #4275 order status updated to Completed
+2020-06-28T21:16:22+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: #4275 order status updated to Completed by admin
+2020-06-28T21:16:29+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: #3903 order status updated to Completed
+2020-06-28T21:16:30+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: #3903 order status updated to Completed by admin
+2020-06-28T21:20:58+00:00 ERROR #000001 - PayPal payment processing failed: {"name":"AUTHENTICATION_FAILURE","message":"Authentication failed due to invalid authentication credentials or a missing Authorization header.","links":[{"href":"https:\/\/developer.paypal.com\/docs\/api\/overview\/#error","rel":"information_link"}]}
+2020-06-28T21:20:58+00:00 ERROR #000001 - payment processing failed: Something went wrong please try again later.
+2020-06-28T21:21:14+00:00 ERROR #000001 - PayPal payment processing failed: {"name":"AUTHENTICATION_FAILURE","message":"Authentication failed due to invalid authentication credentials or a missing Authorization header.","links":[{"href":"https:\/\/developer.paypal.com\/docs\/api\/overview\/#error","rel":"information_link"}]}
+2020-06-28T21:21:14+00:00 ERROR #000001 - payment processing failed: Something went wrong please try again later.
+2020-06-28T21:22:13+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: #3904 order status updated to Completed by Roy Stores
+2020-06-28T21:32:31+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: Vendor Roy Stores has placed a Withdrawal Request #000002.
+2020-06-28T21:55:51+00:00 DEBUG SMS:: 6290050158 : Indi Tribes: You have received an Order #4392
+2020-06-28T21:55:52+00:00 DEBUG SMS:: +918334022615 : Indi Tribes: You have received an Order #4392 for Brass Elephant Rider Showpiece (29 cm x 23 cm x 68 cm)
+2020-06-28T21:55:53+00:00 DEBUG SMS:: +918334022615 : Indi Tribes: You have received an Order #4392 for Brass Tribal Lady Working Showpiece (13 cm x 15 cm x 25 cm)

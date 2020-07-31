@@ -1,0 +1,9 @@
+2020-07-11T08:02:51+00:00 CRITICAL Uncaught Error: Call to undefined method Xoo_El_Admin_Settings::get_otp_plugin_activate_link() in /home/inditclx/public_html/wp-content/plugins/easy-login-woocommerce/admin/xoo-el-admin-settings.php:350
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Xoo_El_Admin_Settings->download_otp_plugin('')
+#1 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/inditclx/public_html/wp-admin/admin-ajax.php(175): do_action('wp_ajax_downloa...')
+#4 {main}
+  thrown in /home/inditclx/public_html/wp-content/plugins/easy-login-woocommerce/admin/xoo-el-admin-settings.php on line 350
+

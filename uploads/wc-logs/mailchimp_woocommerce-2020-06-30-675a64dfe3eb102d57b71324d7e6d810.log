@@ -1,0 +1,25 @@
+2020-06-30T05:58:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 1c74b687986d1d7786921f9b4b2ca9e4
+2020-06-30T05:59:04+00:00 NOTICE abandoned_cart.success :: email: drivespacet1@gmail.com :: checkout_url: https://inditribes.co.in/checkout/?mc_cart_id=1c74b687986d1d7786921f9b4b2ca9e4
+2020-06-30T05:59:05+00:00 NOTICE cart.member.updated :: Updated drivespacet1@gmail.com subscriber status to transactional and language to en
+2020-06-30T06:00:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 1c74b687986d1d7786921f9b4b2ca9e4
+2020-06-30T06:00:53+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 183f4d68ba877e726fb6791e9da7e9f7
+2020-06-30T06:01:01+00:00 NOTICE abandoned_cart.success :: email: drivespacet1@gmail.com :: checkout_url: https://inditribes.co.in/checkout/?mc_cart_id=1c74b687986d1d7786921f9b4b2ca9e4
+2020-06-30T06:01:02+00:00 NOTICE abandoned_cart.success :: email: anjansoma1234@gmail.com :: checkout_url: https://inditribes.co.in/checkout/?mc_cart_id=183f4d68ba877e726fb6791e9da7e9f7
+2020-06-30T06:01:03+00:00 NOTICE cart.member.updated :: Updated anjansoma1234@gmail.com subscriber status to transactional and language to en
+2020-06-30T06:01:25+00:00 NOTICE ac.cart_swap :: Deleted cart [anjansoma1234@gmail.com] :: ID [183f4d68ba877e726fb6791e9da7e9f7]
+2020-06-30T06:01:26+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 1c74b687986d1d7786921f9b4b2ca9e4
+2020-06-30T06:03:06+00:00 NOTICE abandoned_cart.success :: email: drivespacet1@gmail.com :: checkout_url: https://inditribes.co.in/checkout/?mc_cart_id=1c74b687986d1d7786921f9b4b2ca9e4
+2020-06-30T06:03:06+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 4707
+2020-06-30T06:03:15+00:00 NOTICE debug :: Order ID 4707 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://inditribes.co.in/vendor-register/
+        )
+
+)
+
+2020-06-30T06:06:06+00:00 NOTICE order.member.updated :: Updated drivespacet1@gmail.com subscriber status to subscribed and language to en
+2020-06-30T06:06:06+00:00 NOTICE order_submit.success :: addStoreOrder :: #4707 :: email: drivespacet1@gmail.com :: landing site https://inditribes.co.in/vendor-register/ :: abandoned cart deleted [1c74b687986d1d7786921f9b4b2ca9e4]

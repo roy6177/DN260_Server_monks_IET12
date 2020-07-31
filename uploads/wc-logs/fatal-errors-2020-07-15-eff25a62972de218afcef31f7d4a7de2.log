@@ -1,0 +1,55 @@
+2020-07-15T07:02:32+00:00 CRITICAL Uncaught Error: Call to a member function calculate_totals() on null in /home/inditclx/public_html/wp-content/plugins/androapp/class-pw-wp-woocommerce.php:403
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/androapp/class-pw-wp-woocommerce.php(397): Pw_Wp_Woocommerce->get_cart('view')
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): Pw_Wp_Woocommerce->get_cart_v2(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/androapp/v2/an...')
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#6 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(388) in /home/inditclx/public_html/wp-content/plugins/androapp/class-pw-wp-woocommerce.php on line 403
+
+2020-07-15T07:10:34+00:00 CRITICAL Uncaught Error: Call to a member function calculate_totals() on null in /home/inditclx/public_html/wp-content/plugins/androapp/class-pw-wp-woocommerce.php:403
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/androapp/class-pw-wp-woocommerce.php(397): Pw_Wp_Woocommerce->get_cart('view')
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): Pw_Wp_Woocommerce->get_cart_v2(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/androapp/v2/an...')
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#6 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(388) in /home/inditclx/public_html/wp-content/plugins/androapp/class-pw-wp-woocommerce.php on line 403
+
+2020-07-15T07:28:27+00:00 CRITICAL Uncaught Error: Call to a member function calculate_totals() on null in /home/inditclx/public_html/wp-content/plugins/androapp/class-pw-wp-woocommerce.php:403
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/androapp/class-pw-wp-woocommerce.php(397): Pw_Wp_Woocommerce->get_cart('view')
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): Pw_Wp_Woocommerce->get_cart_v2(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/androapp/v2/an...')
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#6 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(388) in /home/inditclx/public_html/wp-content/plugins/androapp/class-pw-wp-woocommerce.php on line 403
+
+2020-07-15T07:47:43+00:00 CRITICAL Uncaught Error: Call to a member function calculate_totals() on null in /home/inditclx/public_html/wp-content/plugins/androapp/class-pw-wp-woocommerce.php:403
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/androapp/class-pw-wp-woocommerce.php(397): Pw_Wp_Woocommerce->get_cart('view')
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): Pw_Wp_Woocommerce->get_cart_v2(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/androapp/v2/an...')
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#6 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(388) in /home/inditclx/public_html/wp-content/plugins/androapp/class-pw-wp-woocommerce.php on line 403
+
+2020-07-15T10:04:25+00:00 CRITICAL Uncaught Error: Call to a member function calculate_totals() on null in /home/inditclx/public_html/wp-content/plugins/androapp/class-pw-wp-woocommerce.php:403
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/androapp/class-pw-wp-woocommerce.php(397): Pw_Wp_Woocommerce->get_cart('view')
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): Pw_Wp_Woocommerce->get_cart_v2(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/androapp/v2/an...')
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#6 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(388) in /home/inditclx/public_html/wp-content/plugins/androapp/class-pw-wp-woocommerce.php on line 403
+

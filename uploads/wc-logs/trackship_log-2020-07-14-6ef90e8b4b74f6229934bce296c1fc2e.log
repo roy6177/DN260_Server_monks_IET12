@@ -1,0 +1,438 @@
+2020-07-14T09:55:52+00:00 ERROR New tracking_webhook 
+
+WP_REST_Request Object
+(
+    [method:protected] => POST
+    [params:protected] => Array
+        (
+            [URL] => Array
+                (
+                )
+
+            [GET] => Array
+                (
+                )
+
+            [POST] => Array
+                (
+                )
+
+            [FILES] => Array
+                (
+                )
+
+            [JSON] => Array
+                (
+                    [user_key] => f6c5fb27694c84ced7af263570c6d26f
+                    [order_id] => 5264
+                    [tracking_number] => 6177
+                    [tracking_provider] => ekart
+                    [tracking_event_status] => unknown
+                    [tracking_event_date] => 2020-07-13 18:07:06
+                    [tracking_est_delivery_date] => 
+                    [tracking_events] => []
+                    [tracking_destination_events] => []
+                )
+
+            [defaults] => Array
+                (
+                )
+
+        )
+
+    [headers:protected] => Array
+        (
+            [content_length] => Array
+                (
+                    [0] => 288
+                )
+
+            [content_type] => Array
+                (
+                    [0] => application/json;charset=utf-8
+                )
+
+            [accept] => Array
+                (
+                    [0] => application/json
+                )
+
+            [connection] => Array
+                (
+                    [0] => 
+                )
+
+            [host] => Array
+                (
+                    [0] => inditribes.co.in
+                )
+
+            [user_agent] => Array
+                (
+                    [0] => WooCommerce API Client-PHP/3.0.0
+                )
+
+            [x_eig_origin] => Array
+                (
+                    [0] => 103.21.58.75
+                )
+
+            [x_forwarded_for] => Array
+                (
+                    [0] => 209.50.57.188
+                )
+
+            [x_https] => Array
+                (
+                    [0] => 1
+                )
+
+            [x_real_ip] => Array
+                (
+                    [0] => 209.50.57.188
+                )
+
+        )
+
+    [body:protected] => {"user_key":"f6c5fb27694c84ced7af263570c6d26f","order_id":"5264","tracking_number":"6177","tracking_provider":"ekart","tracking_event_status":"unknown","tracking_event_date":"2020-07-13 18:07:06","tracking_est_delivery_date":null,"tracking_events":"[]","tracking_destination_events":"[]"}
+    [route:protected] => /wc/v1/tracking-webhook
+    [attributes:protected] => Array
+        (
+            [methods] => Array
+                (
+                    [POST] => 1
+                )
+
+            [accept_json] => 
+            [accept_raw] => 
+            [show_in_index] => 1
+            [args] => Array
+                (
+                )
+
+            [callback] => Array
+                (
+                    [0] => WC_Advanced_Shipment_Tracking_V1_REST_API_Controller Object
+                        (
+                            [namespace:protected] => wc/v1
+                            [rest_base:protected] => orders/(?P<order_id>[\d]+)/shipment-trackings
+                            [post_type:protected] => shop_order
+                            [schema:protected] => 
+                        )
+
+                    [1] => tracking_webhook
+                )
+
+            [permission_callback] => Array
+                (
+                    [0] => WC_Advanced_Shipment_Tracking_V1_REST_API_Controller Object
+                        (
+                            [namespace:protected] => wc/v1
+                            [rest_base:protected] => orders/(?P<order_id>[\d]+)/shipment-trackings
+                            [post_type:protected] => shop_order
+                            [schema:protected] => 
+                        )
+
+                    [1] => create_item_permissions_check
+                )
+
+        )
+
+    [parsed_json:protected] => 1
+    [parsed_body:protected] => 
+)
+
+
+
+2020-07-14T11:55:23+00:00 ERROR New tracking_webhook 
+
+WP_REST_Request Object
+(
+    [method:protected] => POST
+    [params:protected] => Array
+        (
+            [URL] => Array
+                (
+                )
+
+            [GET] => Array
+                (
+                )
+
+            [POST] => Array
+                (
+                )
+
+            [FILES] => Array
+                (
+                )
+
+            [JSON] => Array
+                (
+                    [user_key] => f6c5fb27694c84ced7af263570c6d26f
+                    [order_id] => 5037
+                    [tracking_number] => 67888900
+                    [tracking_provider] => ekart
+                    [tracking_event_status] => unknown
+                    [tracking_event_date] => 2020-07-13 16:15:11
+                    [tracking_est_delivery_date] => 
+                    [tracking_events] => []
+                    [tracking_destination_events] => []
+                )
+
+            [defaults] => Array
+                (
+                )
+
+        )
+
+    [headers:protected] => Array
+        (
+            [content_length] => Array
+                (
+                    [0] => 292
+                )
+
+            [content_type] => Array
+                (
+                    [0] => application/json;charset=utf-8
+                )
+
+            [accept] => Array
+                (
+                    [0] => application/json
+                )
+
+            [connection] => Array
+                (
+                    [0] => 
+                )
+
+            [host] => Array
+                (
+                    [0] => inditribes.co.in
+                )
+
+            [user_agent] => Array
+                (
+                    [0] => WooCommerce API Client-PHP/3.0.0
+                )
+
+            [x_eig_origin] => Array
+                (
+                    [0] => 103.21.58.75
+                )
+
+            [x_forwarded_for] => Array
+                (
+                    [0] => 209.50.57.188
+                )
+
+            [x_https] => Array
+                (
+                    [0] => 1
+                )
+
+            [x_real_ip] => Array
+                (
+                    [0] => 209.50.57.188
+                )
+
+        )
+
+    [body:protected] => {"user_key":"f6c5fb27694c84ced7af263570c6d26f","order_id":"5037","tracking_number":"67888900","tracking_provider":"ekart","tracking_event_status":"unknown","tracking_event_date":"2020-07-13 16:15:11","tracking_est_delivery_date":null,"tracking_events":"[]","tracking_destination_events":"[]"}
+    [route:protected] => /wc/v1/tracking-webhook
+    [attributes:protected] => Array
+        (
+            [methods] => Array
+                (
+                    [POST] => 1
+                )
+
+            [accept_json] => 
+            [accept_raw] => 
+            [show_in_index] => 1
+            [args] => Array
+                (
+                )
+
+            [callback] => Array
+                (
+                    [0] => WC_Advanced_Shipment_Tracking_V1_REST_API_Controller Object
+                        (
+                            [namespace:protected] => wc/v1
+                            [rest_base:protected] => orders/(?P<order_id>[\d]+)/shipment-trackings
+                            [post_type:protected] => shop_order
+                            [schema:protected] => 
+                        )
+
+                    [1] => tracking_webhook
+                )
+
+            [permission_callback] => Array
+                (
+                    [0] => WC_Advanced_Shipment_Tracking_V1_REST_API_Controller Object
+                        (
+                            [namespace:protected] => wc/v1
+                            [rest_base:protected] => orders/(?P<order_id>[\d]+)/shipment-trackings
+                            [post_type:protected] => shop_order
+                            [schema:protected] => 
+                        )
+
+                    [1] => create_item_permissions_check
+                )
+
+        )
+
+    [parsed_json:protected] => 1
+    [parsed_body:protected] => 
+)
+
+
+
+2020-07-14T11:55:26+00:00 ERROR New tracking_webhook 
+
+WP_REST_Request Object
+(
+    [method:protected] => POST
+    [params:protected] => Array
+        (
+            [URL] => Array
+                (
+                )
+
+            [GET] => Array
+                (
+                )
+
+            [POST] => Array
+                (
+                )
+
+            [FILES] => Array
+                (
+                )
+
+            [JSON] => Array
+                (
+                    [user_key] => f6c5fb27694c84ced7af263570c6d26f
+                    [order_id] => 5037
+                    [tracking_number] => 67888900
+                    [tracking_provider] => ekart
+                    [tracking_event_status] => unknown
+                    [tracking_event_date] => 2020-07-13 16:15:11
+                    [tracking_est_delivery_date] => 
+                    [tracking_events] => []
+                    [tracking_destination_events] => []
+                )
+
+            [defaults] => Array
+                (
+                )
+
+        )
+
+    [headers:protected] => Array
+        (
+            [content_length] => Array
+                (
+                    [0] => 292
+                )
+
+            [content_type] => Array
+                (
+                    [0] => application/json;charset=utf-8
+                )
+
+            [accept] => Array
+                (
+                    [0] => application/json
+                )
+
+            [connection] => Array
+                (
+                    [0] => 
+                )
+
+            [host] => Array
+                (
+                    [0] => inditribes.co.in
+                )
+
+            [user_agent] => Array
+                (
+                    [0] => WooCommerce API Client-PHP/3.0.0
+                )
+
+            [x_eig_origin] => Array
+                (
+                    [0] => 103.21.58.75
+                )
+
+            [x_forwarded_for] => Array
+                (
+                    [0] => 209.50.57.188
+                )
+
+            [x_https] => Array
+                (
+                    [0] => 1
+                )
+
+            [x_real_ip] => Array
+                (
+                    [0] => 209.50.57.188
+                )
+
+        )
+
+    [body:protected] => {"user_key":"f6c5fb27694c84ced7af263570c6d26f","order_id":"5037","tracking_number":"67888900","tracking_provider":"ekart","tracking_event_status":"unknown","tracking_event_date":"2020-07-13 16:15:11","tracking_est_delivery_date":null,"tracking_events":"[]","tracking_destination_events":"[]"}
+    [route:protected] => /wc/v1/tracking-webhook
+    [attributes:protected] => Array
+        (
+            [methods] => Array
+                (
+                    [POST] => 1
+                )
+
+            [accept_json] => 
+            [accept_raw] => 
+            [show_in_index] => 1
+            [args] => Array
+                (
+                )
+
+            [callback] => Array
+                (
+                    [0] => WC_Advanced_Shipment_Tracking_V1_REST_API_Controller Object
+                        (
+                            [namespace:protected] => wc/v1
+                            [rest_base:protected] => orders/(?P<order_id>[\d]+)/shipment-trackings
+                            [post_type:protected] => shop_order
+                            [schema:protected] => 
+                        )
+
+                    [1] => tracking_webhook
+                )
+
+            [permission_callback] => Array
+                (
+                    [0] => WC_Advanced_Shipment_Tracking_V1_REST_API_Controller Object
+                        (
+                            [namespace:protected] => wc/v1
+                            [rest_base:protected] => orders/(?P<order_id>[\d]+)/shipment-trackings
+                            [post_type:protected] => shop_order
+                            [schema:protected] => 
+                        )
+
+                    [1] => create_item_permissions_check
+                )
+
+        )
+
+    [parsed_json:protected] => 1
+    [parsed_body:protected] => 
+)
+
+
+

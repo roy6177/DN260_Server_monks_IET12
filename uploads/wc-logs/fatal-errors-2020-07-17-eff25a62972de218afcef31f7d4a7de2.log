@@ -1,0 +1,10 @@
+2020-07-17T08:59:13+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+

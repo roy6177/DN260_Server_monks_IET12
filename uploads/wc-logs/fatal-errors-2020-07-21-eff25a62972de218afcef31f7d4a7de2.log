@@ -1,0 +1,12 @@
+2020-07-21T15:00:05+00:00 CRITICAL Uncaught Error: Class 'Elementor\Core\Common\App' not found in /home/inditclx/public_html/wp-content/plugins/elementor/includes/plugin.php:610
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/elementor/includes/plugin.php(542): Elementor\Plugin->init_common()
+#1 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Elementor\Plugin->on_rest_api_init(Object(WP_REST_Server))
+#2 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /home/inditclx/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/inditclx/public_html/wp-includes/rest-api.php(479): do_action('rest_api_init', Object(WP_REST_Server))
+#5 /home/inditclx/public_html/wp-includes/rest-api.php(305): rest_get_server()
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#7 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#8 /home/inditclx/public_html/wp-includes/plugin.php in /home/inditclx/public_html/wp-content/plugins/elementor/includes/plugin.php on line 610
+

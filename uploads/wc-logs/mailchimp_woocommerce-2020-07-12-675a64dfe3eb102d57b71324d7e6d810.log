@@ -1,0 +1,30 @@
+2020-07-12T04:57:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5085
+2020-07-12T04:57:53+00:00 NOTICE product_submit.error :: addStoreProduct :: #5085 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-12T05:04:36+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5127
+2020-07-12T05:05:12+00:00 NOTICE product_submit.error :: addStoreProduct :: #5127 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-12T05:05:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5127
+2020-07-12T05:05:30+00:00 NOTICE product_submit.error :: addStoreProduct :: #5127 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-12T05:06:20+00:00 NOTICE product.delete_fail :: Unable to deleted product 5126
+2020-07-12T05:08:34+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5087
+2020-07-12T05:09:05+00:00 NOTICE product_submit.error :: addStoreProduct :: #5087 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-12T05:25:47+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5087
+2020-07-12T05:26:16+00:00 NOTICE product_submit.error :: addStoreProduct :: #5087 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-12T06:36:29+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5144
+2020-07-12T06:36:45+00:00 NOTICE product_submit.error :: addStoreProduct :: #5144 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-12T06:38:48+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5127
+2020-07-12T06:39:20+00:00 NOTICE product_submit.error :: addStoreProduct :: #5127 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-12T06:55:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5144
+2020-07-12T06:56:14+00:00 NOTICE product_submit.error :: addStoreProduct :: #5144 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-12T06:56:35+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5127
+2020-07-12T06:57:29+00:00 NOTICE product_submit.error :: addStoreProduct :: #5127 :: Error Code 404 :: Resource Not Found :: The requested resource could not be found. on 1803 in /home/inditclx/public_html/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2020-07-12T09:27:56+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2020-07-12T09:28:01+00:00 NOTICE member.sync :: Updated Member admin@inditribes.co.in ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Server
+            [LNAME] => Monks
+        )
+
+)
+

@@ -1,0 +1,1053 @@
+2020-07-20T06:46:40+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T12:34:51+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T12:34:51+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T12:34:56+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T12:35:02+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T12:35:28+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T12:36:52+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T12:37:23+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('Donations')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Donations', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', 'Donations')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/cla in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T12:37:23+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('Donations')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Donations', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', 'Donations')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/cla in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T12:37:40+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('Donations')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Donations', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', 'Donations')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/cla in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T12:39:11+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('Donations')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Donations', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', 'Donations')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/cla in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T12:46:26+00:00 CRITICAL Uncaught Error: Class name must be a valid object or a string in /home/inditclx/public_html/wp-content/plugins/give/src/Form/Templates.php:112
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/give/src/Form/Templates.php(98): Give\Form\Templates->getTemplateObject(NULL)
+#1 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(123): Give\Form\Templates->getTemplate()
+#2 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#4 /home/inditclx/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/inditclx/public_html/wp-includes/template-loader.php(13): do_action('template_redire...')
+#6 /home/inditclx/public_html/wp-blog-header.php(19): require_once('/home/inditclx/...')
+#7 /home/inditclx/public_html/index.php(17): require('/home/inditclx/...')
+#8 {main}
+  thrown in /home/inditclx/public_html/wp-content/plugins/give/src/Form/Templates.php on line 112
+
+2020-07-20T12:47:18+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T12:47:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T12:49:02+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T12:56:34+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T13:13:51+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T13:14:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T13:14:22+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T13:15:36+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('IndiTribes Dona...')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('IndiTribes Dona...', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', 'IndiTribes Dona...')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/ in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T13:32:53+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T13:32:56+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T13:33:03+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T13:33:05+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T13:33:06+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T13:33:07+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T13:43:18+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T13:43:23+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T13:43:24+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T13:43:25+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T13:43:26+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T13:43:26+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T13:43:27+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T13:45:06+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T13:48:21+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T13:48:22+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T13:48:25+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T13:48:26+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T13:48:27+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T13:48:28+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T13:48:29+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T13:48:35+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:09:32+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:09:35+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:09:36+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:09:36+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:09:38+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:09:40+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:09:41+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:09:52+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:09:53+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:09:54+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:09:56+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:09:57+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:09:58+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:10:00+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:12:24+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:12:25+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:12:28+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:12:35+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:12:36+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:12:39+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:12:40+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:12:41+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:12:42+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:12:43+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:12:44+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:12:45+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:12:46+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:12:51+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:12:53+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:12:54+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:12:55+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:14:53+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:14:54+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:14:55+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:14:56+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:14:56+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T14:14:57+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart() on null in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php:2887
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(1015): WfpFundraising\Apps\Content->wfp_action_woc_redirect(Object(WP_REST_Request))
+#1 /home/inditclx/public_html/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /home/inditclx/public_html/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/woc-redirect/a...')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#4 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/inditclx/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#6 /home/inditclx/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#7 /home/inditclx/public_html/wp-includes/class-wp.php(739): in /home/inditclx/public_html/wp-content/plugins/wp-fundraising-donation/apps/content.php on line 2887
+
+2020-07-20T15:07:12+00:00 CRITICAL Uncaught Error: Class name must be a valid object or a string in /home/inditclx/public_html/wp-content/plugins/give/src/Form/Templates.php:112
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/give/src/Form/Templates.php(98): Give\Form\Templates->getTemplateObject(NULL)
+#1 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(123): Give\Form\Templates->getTemplate()
+#2 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#4 /home/inditclx/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/inditclx/public_html/wp-includes/template-loader.php(13): do_action('template_redire...')
+#6 /home/inditclx/public_html/wp-blog-header.php(19): require_once('/home/inditclx/...')
+#7 /home/inditclx/public_html/index.php(17): require('/home/inditclx/...')
+#8 {main}
+  thrown in /home/inditclx/public_html/wp-content/plugins/give/src/Form/Templates.php on line 112
+
+2020-07-20T15:07:41+00:00 CRITICAL Uncaught Error: Class name must be a valid object or a string in /home/inditclx/public_html/wp-content/plugins/give/src/Form/Templates.php:112
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/give/src/Form/Templates.php(98): Give\Form\Templates->getTemplateObject(NULL)
+#1 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(123): Give\Form\Templates->getTemplate()
+#2 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#4 /home/inditclx/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/inditclx/public_html/wp-includes/template-loader.php(13): do_action('template_redire...')
+#6 /home/inditclx/public_html/wp-blog-header.php(19): require_once('/home/inditclx/...')
+#7 /home/inditclx/public_html/index.php(17): require('/home/inditclx/...')
+#8 {main}
+  thrown in /home/inditclx/public_html/wp-content/plugins/give/src/Form/Templates.php on line 112
+
+2020-07-20T15:09:16+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T15:15:27+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T15:19:03+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php:158
+Stack trace:
+#0 /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php(224): YITH_WC_Subscription->is_subscription(false)
+#1 /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription-order.php(135): YITH_WC_Subscription->cart_has_subscriptions()
+#2 /home/inditclx/public_html/wp-includes/class-wp-hook.php(289): YWSBS_Subscription_Order->get_extra_subscription_meta(6010, Array)
+#3 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/inditclx/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/inditclx/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1156): do_action('woocommerce_che...', 6010, Array, Object(Automattic\W in /home/inditclx/public_html/wp-content/plugins/yith-woocommerce-subscription/includes/class.yith-wc-subscription.php on line 158
+
+2020-07-20T15:21:11+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T15:24:45+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T15:29:05+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T15:29:19+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T15:32:48+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T15:34:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T15:37:21+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T15:38:53+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T15:42:47+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T15:49:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T15:50:04+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T15:50:15+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T15:52:41+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T15:54:34+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wa_pdx_hook_title(), 1 passed in /home/inditclx/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php:275
+Stack trace:
+#0 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): wa_pdx_hook_title('')
+#1 /home/inditclx/public_html/wp-includes/plugin.php(206): WP_Hook->apply_filters('', Array)
+#2 /home/inditclx/public_html/wp-content/plugins/give/src/Views/IframeContentView.php(102): apply_filters('the_title', '')
+#3 /home/inditclx/public_html/wp-content/plugins/give/src/Views/Form/defaultFormTemplate.php(19): Give\Views\IframeContentView->render()
+#4 /home/inditclx/public_html/wp-content/plugins/give/src/Controller/Form.php(136): include('/home/inditclx/...')
+#5 /home/inditclx/public_html/wp-includes/class-wp-hook.php(287): Give\Controller\Form->loadDonationFormView('')
+#6 /home/inditclx/public_html/wp-includes/class-wp-hook.php(311): WP_Hoo in /home/inditclx/public_html/wp-content/plugins/wordapp/includes/integrations.php on line 275
+
+2020-07-20T23:12:21+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /home/inditclx/public_html/wp-content/themes/woovina/woocommerce/wvn-archive-product.php on line 12
+
+2020-07-20T23:15:54+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /home/inditclx/public_html/wp-content/themes/woovina/woocommerce/wvn-archive-product.php on line 11
+
+2020-07-20T23:16:29+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /home/inditclx/public_html/wp-content/themes/woovina/woocommerce/wvn-archive-product.php on line 14
+

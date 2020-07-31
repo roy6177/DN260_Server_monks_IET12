@@ -1,0 +1,6 @@
+2020-07-22T21:10:32+00:00 ERROR #000001 - payment processing failed: Invalid payment method.
+2020-07-22T21:10:50+00:00 ERROR #000002 - payment processing failed: Invalid payment method.
+2020-07-22T21:10:50+00:00 ERROR #000001 - payment processing failed: Invalid payment method.
+2020-07-22T21:19:47+00:00 ERROR #000002 - PayPal payment processing failed: {"name":"AUTHENTICATION_FAILURE","message":"Authentication failed due to invalid authentication credentials or a missing Authorization header.","links":[{"href":"https:\/\/developer.paypal.com\/docs\/api\/overview\/#error","rel":"information_link"}]}
+2020-07-22T21:19:47+00:00 ERROR #000002 - payment processing failed: Something went wrong please try again later.
+2020-07-22T21:25:46+00:00 INFO #000003 - payment processing complete via Bank_transfer. Amount: 3415.2 INR
